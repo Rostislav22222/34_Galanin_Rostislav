@@ -41,3 +41,24 @@
   
   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex02/Task02(1).png)
   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex02/Task02(2).png)
+  
+  <h3 align="center">Завдання 3</h3>
+Умова:
+<ul>
+  <li>Як основа використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method (Virtual Constructor), розширити ієрархію похідними класами, реалізують методи для подання результатів у вигляді текстової таблиці. Параметри відображення таблиці мають визначатися користувачем.</li>
+<li>Продемонструвати заміщення (перевизначення, overriding), поєднання (перевантаження, overloading), динамічне призначення методів (Пізніше зв'язування, поліморфізм, dynamic method dispatch).</li>
+<li>Забезпечити діалоговий інтерфейс із користувачем.</li>
+<li>Розробити клас для тестування основної функціональності.</li>
+<li>Використати коментарі для автоматичної генерації документації засобами javadoc.</li>
+    </ul>
+    
+   # Результат запуску коду:
+   
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(1).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(2).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(3).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(4).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(5).png)
+    
+      
+      
