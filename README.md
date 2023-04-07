@@ -59,6 +59,25 @@
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(3).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(4).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(5).png)
-    
+   
+   <h3 align="center">Завдання 4</h3>
+Умова:
+     <ul>
+    <li>Використовуючи створені раніше класи та шаблон проектування Command, розробити клас Menu як контейнер команд, що розширюється, реалізувати обробку даних колекції та окремих елементів (масштабування, інтерполяція, нормалізація, сортування, пошук тощо).</li>
+<li>Реалізувати можливість скасування (undo) операцій (команд).</li>
+<li>Продемонструвати поняття "макрокоманда".</li>
+<li>Під час розробки програми використовувати шаблон Singletone.</li>
+<li>Забезпечити діалоговий інтерфейс із користувачем.</li>
+<li>Розробити клас для тестування функціональності програми.</li>
+<li>Використати коментарі для автоматичної генерації документації засобами javadoc.</li>
+  </ul>
       
-      
+   # Результат запуску коду:
+   
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(1).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(2).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(3).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(4).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(5).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(6).png)
+   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(7).png)
