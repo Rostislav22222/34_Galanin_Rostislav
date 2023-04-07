@@ -81,3 +81,20 @@
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(5).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(6).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(7).png)
+   
+   <h3 align="center">Завдання 5</h3>
+Умова:
+<ul>
+	<li>Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).</li>
+<li>Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.</li>
+<li>Забезпечити діалоговий інтерфейс із користувачем.</li>
+<li>Розробити клас для тестування функціональності програми.</li>
+<li>Використати коментарі для автоматичної генерації документації засобами javadoc.</li>
+	</ul>
+	
+# Результат запуску коду:
+
+(https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(1).png)
+(https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(2).png)
+(https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(3).png)
+(https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(4).png)
