@@ -26,6 +26,10 @@
 (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex01/Task02.png)
 (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex01/Task02(2).png)
 
+# Алгоритм роботи програми:
+![image](https://user-images.githubusercontent.com/119488812/232429053-4eacb0f4-2b9c-49e1-ae16-013dde778b43.png)
+
+
 <h3 align="center">Завдання 2</h3>
 Умова:
  <ul>
@@ -42,6 +46,10 @@
   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex02/Task02(1).png)
   (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex02/Task02(2).png)
   
+  # Алгоритм роботи програми:
+  
+  ![image](https://user-images.githubusercontent.com/119488812/232429292-601ffa14-d442-41bf-a84c-6babb4abf375.png)
+
   <h3 align="center">Завдання 3</h3>
 Умова:
 <ul>
@@ -59,6 +67,11 @@
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(3).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(4).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex03/Task03(5).png)
+   
+   # Алгоритм роботи програми:
+   
+   ![image](https://user-images.githubusercontent.com/119488812/232429488-f12d74e8-2fac-45dc-9940-b3ba70b07d33.png)
+
    
    <h3 align="center">Завдання 4</h3>
 Умова:
@@ -82,6 +95,10 @@
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(6).png)
    (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex04/Task04(7).png)
    
+   # Алгоритм роботи програми:
+   
+   ![image](https://user-images.githubusercontent.com/119488812/232429699-875c5f85-05af-4b74-871e-b8b10360409b.png)
+   
    <h3 align="center">Завдання 5</h3>
 Умова:
 <ul>
@@ -98,3 +115,8 @@
 (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(2).png)
 (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(3).png)
 (https://github.com/Rostislav22222/34_Galanin_Rostislav/blob/main/pro/png/ex05/Task05(4).png)
+
+# Алгоритм роботи програми:
+
+![image](https://user-images.githubusercontent.com/119488812/232429812-a49e43b9-06dc-4880-8b97-10d43e94c444.png)
+
